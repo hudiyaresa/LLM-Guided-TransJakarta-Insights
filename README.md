@@ -22,7 +22,7 @@ The analysis includes data visualization, geospatial mapping, and AI-powered nat
 ## Dataset
 
 * **Source**: Public dummy dataset representing TransJakarta trip data
-* **Link**: [dfTransjakarta.csv on GitHub](https://github.com/dikisahkan/jupyternotebook/blob/main/dummyDatasetTransjakarta/dfTransjakarta.csv)
+* **Link**: [Public Kaggle Transjakarta](https://www.kaggle.com/datasets/dikisahkan/transjakarta-transportation-transaction/data) or [dfTransjakarta.csv on GitHub](https://github.com/dikisahkan/jupyternotebook/blob/main/dummyDatasetTransjakarta/dfTransjakarta.csv)
 * **Size**: Approximately 37,000 records
 * **Contents**: Includes fields such as date, terminal origin/destination, passenger count, revenue, and rider demographics
 

@@ -30,14 +30,23 @@ The analysis includes data visualization, geospatial mapping, and AI-powered nat
 
 ## Insights & Findings
 
-The analysis reveals several important insights:
+There are actually still many things that can be explored with the following data. For an initial analysis, here are some key insights and recommendations that can be concluded
 
-* **Peak Usage Times**: Highest passenger volumes occur during weekday mornings (06:00–08:00) and evenings (16:00–18:00), indicating strong commuter patterns.
-* **Revenue Trends**: Terminals such as Harmoni, Blok M, and Dukuh Atas consistently generate the highest revenues, linked to central business areas.
-* **Overcrowding Indicators**: Load imbalances exist on certain corridors and during peak hours, pointing to a need for vehicle reallocation or schedule adjustment.
-* **Demographic Patterns**: Riders aged 20–34 dominate the user base, with relatively low ridership among seniors (60+).
-* **Route Optimization Opportunities**: Underused feeder routes and corridors can benefit from promotion or rerouting strategies.
-* **Spatial Visualization**: Mapping supports identification of service coverage gaps and demand clusters.
+### 1. Boost High-Frequency Services on Top Corridors
+- Routes such as **Matraman Baru – Ancol**, **Blok M – Kota**, and **Pulo Gadung – Monas** have consistently high passenger volumes.
+- These corridors would benefit from more frequent services to accommodate demand and reduce overcrowding.
+
+### 2. Optimize Scheduling and Fleet Deployment During Peak Hours
+- Peak passenger activity occurs during **5–8 AM** and **4–6 PM**.
+- Buses should be allocated in higher frequency during these hours, especially on busy routes.
+- For passengers, this reduces waiting time and improves overall ride comfort.
+
+### 3. Use Demographic Targeting in Marketing Strategies
+- Demographic segmentation (students, employees, elderly) can be applied to design:
+  - **Student discounts**
+  - **Bank or mobile payment promos**
+  - **Time-based fare discounts** for incentivizing travel during off-peak hours
+- These measures can help balance demand across time and routes while encouraging higher ridership.
 
 ---
 
